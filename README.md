@@ -1,3 +1,9 @@
+### Modifications
+
+This software is being modified such that those of us that choose to not use language deemed as foul or inappropriate can still use it without having to use the original course keyword while still achieving the same results.
+
+As a result, everything in the instructions here are the same except the usage of the f word. Instead the user would use the word "oops" as the trigger for the expected results.
+
 # The Fuck [![Version][version-badge]][version-link] [![Build Status][workflow-badge]][workflow-link] [![Coverage][coverage-badge]][coverage-link] [![MIT License][license-badge]](LICENSE.md)
 
 *The Fuck* is a magnificent app, inspired by a [@liamosaur](https://twitter.com/liamosaur/)
